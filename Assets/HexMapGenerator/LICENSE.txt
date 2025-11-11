@@ -1,0 +1,13 @@
+HexGen - Hex-Based Map/Level Generator
+Copyright (C) A. Yiğit Sağlam - All Rights Reserved
+
+This software is provided as free software for personal and commercial use. However, the following restrictions apply:
+
+1. You may **not** modify, decompile, reverse engineer, or distribute this software in any form.
+2. You may **not** sell, rent, or sublicense this software.
+3. The software is provided "as-is" without any warranties or guarantees.
+4. Future updates may require a separate paid license.
+
+By using this software, you agree to these terms.
+
+For inquiries, support, or licensing questions, contact: yigitsaglameee@gmail.com

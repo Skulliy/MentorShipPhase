@@ -1,0 +1,61 @@
+HexGen - How to Use Guide
+Introduction
+HexGen is a hex-based map and level generator for game developers. This guide will walk you through the steps to create, edit, save, and generate a hex-based world using HexGen.
+
+1. Opening the Hex Editor
+-Open your Unity project.
+-Double-click the .unitypackage file to install the tool.
+-Go to the top menu and select Tools → HexGen → Generate World.
+-The Hex Editor Window will appear, where you can create and edit your map.
+
+2. Creating Custom Biomes (Optional)
+-Navigate to the Assets/HexMapGenerator/Biomes folder.
+-Right-click and select Create → HexMap → BiomeData.
+-Rename the newly created BiomeData asset.
+-Fill in the biome details, including its name, material, color, and height.
+
+3. Setting Up the Grid
+-Enter the desired width, height, and hex size (recommended: 1) for your map.
+-Click the "Add Biome" button to see and add available biomes.
+-When you're ready, press the "Confirm & Open Canvas" button.
+
+4. Selecting a Biome
+-At the top of the Hex Editor, you will see a list of available biomes.
+-Click on a biome name to select it.
+-The selected biome will remain active until you choose another one.
+
+5. Painting the Map
+-Move your cursor over the grid.
+-Left-click to apply the selected biome to a hex tile.
+-Click and drag to paint multiple tiles at once.
+-The hex tiles will update their color based on the selected biome.
+
+6. Saving the Map (Optional)
+-Enter a name for your map in the "Map Name" field.
+-Click the "Save Map" button.
+-The map will be saved as a JSON file inside the project directory.
+
+7. Loading a Map (Optional)
+-Click the "Load Map" button.
+-Select a previously saved map from the file browser.
+-The hex grid will update with the loaded biomes and heights.
+
+8. Generating the World
+-Click the "Generate World" button.
+-The painted grid will be converted into 3D hex tiles inside the scene.
+-Each hex tile will use its assigned biome material and height.
+
+9. Editing After Generation
+-If you need to make changes, return to the Hex Editor Window.
+-Modify the hex grid by selecting and painting new biomes.
+-Click "Generate World" again to create a new world.
+
+Common Issues and Fixes
+-Map does not generate: Ensure you have painted tiles before clicking "Generate World" and check the console for errors.
+-Biome colors do not update: Try repainting the tiles and click "Generate World" again.
+-Sidewalls appear black: This is a feature of the custom shader. Adjust the sidewall color in the assigned material.
+
+Need Help?
+If you need additional help or have suggestions for the tool, feel free to leave a comment. You can also reach me via email at: yigitsaglameee@gmail.com.
+
+"HexGen is currently available for free for testing purposes. Modification, redistribution, and resale are strictly prohibited. Future updates may require a paid license."
