@@ -1220,8 +1220,8 @@
     "m_ObjectId": "00d9a54a56934c098d0fc162fa64a49a",
     "m_Title": "NOT SIDE WALL",
     "m_Position": {
-        "x": -2485.4609375,
-        "y": 2486.000244140625
+        "x": -2500.0,
+        "y": 2479.0
     }
 }
 
@@ -1756,7 +1756,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -2186,8 +2186,8 @@
     "m_ObjectId": "28c974e88d434619a643a6aaf0ca572f",
     "m_Title": "SIDE WALL SELECTOR",
     "m_Position": {
-        "x": -3607.46142578125,
-        "y": 2060.000244140625
+        "x": -3607.0,
+        "y": 2060.0
     }
 }
 
@@ -2311,7 +2311,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -2586,7 +2586,7 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -3234,7 +3234,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "m_DefaultType": 3
@@ -4158,7 +4158,7 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"49c9fb6dbdcf16e40a716826279ab62f\",\"type\":3}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -4241,8 +4241,8 @@
     "m_ObjectId": "738529776868487982ab7c324ce40651",
     "m_Title": "ALBEDO MAP",
     "m_Position": {
-        "x": -1477.9998779296875,
-        "y": 915.0000610351563
+        "x": -1478.0,
+        "y": 915.0
     }
 }
 
@@ -4910,7 +4910,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -5313,8 +5313,8 @@
     "m_ObjectId": "a2e8797d4c994cc1bf152a14bb6110b6",
     "m_Title": "NORMAL MAP",
     "m_Position": {
-        "x": -1495.0001220703125,
-        "y": 4675.00048828125
+        "x": -1500.0,
+        "y": 4675.0
     }
 }
 
@@ -5640,7 +5640,7 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -6080,7 +6080,7 @@
     "m_ObjectId": "bea6438bee904c1a801609a69dfae293",
     "m_Title": "METALLIC MAP",
     "m_Position": {
-        "x": -1494.0001220703125,
+        "x": -1494.0,
         "y": 2519.0
     }
 }
@@ -6714,7 +6714,7 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"d0c5e8027700669459de0b4da85f969b\",\"type\":3}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -6999,7 +6999,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -7679,7 +7679,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "m_DefaultType": 0
